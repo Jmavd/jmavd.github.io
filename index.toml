@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "70ce754e40398d862eafd167cce1dffe619add7b9abf9600d8f172612d5b3d2a"
+hash = "cc60139375f03edeb630730779f17d06a5d3ac99daae8f41415fa8adf903b960"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "aae6efbbdcd71eb90ada4d682f12fd88db533a335c7f30e5d541acc07edfb1b5"
+hash = "97f766349f5048cfb2ce6ad26973f13e6f3cf4a822ea92881d0132a896a13960"
 metafile = true
 
 [[files]]
@@ -886,7 +886,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "178c05ac607a40a77c83808d8b1ee7b6fd30faf00132626f4e827e1967d00d8e"
+hash = "8194142c78c49dd787480aad4e8b9b310f7bc8b99b370fad2fa588a6d8abd9b2"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "d28d0078b6d484c50a001f0253297f0ea7146d7f8200776b5f0248c1803cd348"
+hash = "e69bdffba42952f9e78ea411c07bfbc707dd19b4d558b46b2761c035b87def8a"
 metafile = true
 
 [[files]]
