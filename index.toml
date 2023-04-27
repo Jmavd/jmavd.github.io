@@ -1129,6 +1129,11 @@ hash = "a84a9e56431b13a5ab18d1e88a1633abec6ad75433b6f37654d30ec478451607"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c6018049883190dee50c5a5ca7550142dd7578254e27cb4214b0dddeecdfe4dc"
 metafile = true
