@@ -766,11 +766,6 @@ hash = "e6ee4e0303ca4666aa8f53f1920d1abf23c00a2c197edac0ad246812cb329493"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "180472f4a0e889f04fddb8a6ce3dac8d27701c89e652e51a751549fc1cf74f0c"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "21805ebb5352dd69d7c97d944fcc8d071cded3ba3d33abd45a14dbf6f4fc8f66"
 metafile = true
@@ -791,23 +786,8 @@ hash = "e0f6cbba2f655e4d7906d95d5c9e00837a72fa6a0c52ddadcd35de33c160f017"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "e871679c84e1c31abb1da87ba030039fc9f0948f66a9f3cd004b878e20d6b479"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "4f059041a19973f7575b66621baefadf445c8fb7d70192ce08b641d740aee1e7"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
-metafile = true
-
-[[files]]
-file = "mods/colormatic.pw.toml"
-hash = "6e6d5f3293d8353d58043cd550dd5f6240646dd63ded504f1f3379747d9bf896"
 metafile = true
 
 [[files]]
@@ -845,11 +825,6 @@ hash = "9f577493ce383dd94a02701cf1104ad2a4a73a7956b4da156d0eff895d619c7a"
 metafile = true
 
 [[files]]
-file = "mods/custom-entity-models-cem.pw.toml"
-hash = "6464839c2283db188fe7a03feef2801f9d21315fad8be999bb3f5dc42a131984"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "90dec0bb053cd7eb7a5474af1b692917c0925bb938747a4e43215f1815e423e7"
 metafile = true
@@ -862,11 +837,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "9c4271edb9c7edad90f0cd64d521a473d5ae59f283a42840f8fa9739834489ee"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "97f766349f5048cfb2ce6ad26973f13e6f3cf4a822ea92881d0132a896a13960"
 metafile = true
 
 [[files]]
@@ -892,16 +862,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "dbc3fa3952bac5f2201fd3049cabb5d55e119421e0c94d55dc0e8125efcf7f0a"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "c5fac67fb3d0e58518a79237f8f4945cf71e0750f5890761c22fc3a911864fff"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "f7954fddbb4f76ca20e1ad7dae810d4c7a2d0ee85bc53fe8d076fb84e6693e25"
 metafile = true
 
 [[files]]
@@ -935,16 +895,6 @@ hash = "f3f8eb8346532e53b97687f850bea32580c16d9ea46a61270f1deeab18bb8eef"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
-metafile = true
-
-[[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "67a24992a28236ac55b0cf5500b52d2370b006ed6116dcb1eaaad94f1bfcfd12"
 metafile = true
@@ -957,15 +907,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eac5e11f4f5d18cc618aa6452690d3aba7ed95accd4b830190d01946d99aeb2f"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass-1.3.0+1.19.jar"
-hash = "af81aead5e405a6ac2f5c03ab46c82863f7c55a8beef8d6313501d9b8335ab54"
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "57c09b8b9dbc975bf22acdd115f4cefca61708c9a15dc73e3720b3f514996072"
 metafile = true
 
 [[files]]
@@ -1034,11 +975,6 @@ hash = "a2f3df885984de9d90766c40c5ec4119769c9ffe8291364ff5f5403ba547fb32"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "e69bdffba42952f9e78ea411c07bfbc707dd19b4d558b46b2761c035b87def8a"
-metafile = true
-
-[[files]]
 file = "mods/origins.pw.toml"
 hash = "f6dfb523f158c40358b7050b996a773aed56079423bb587f103a63ec8c3316d6"
 metafile = true
@@ -1056,11 +992,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "a674b3691edb8664f598244fd07d76510a8481b8be3ad9af4428ab14b405307a"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "bf96fca75cd4f341763f8c55cf0c28657f3d12c4a9eeab7eaf7ed4e5c6268686"
 metafile = true
 
 [[files]]
@@ -1129,8 +1060,8 @@ hash = "a84a9e56431b13a5ab18d1e88a1633abec6ad75433b6f37654d30ec478451607"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
+file = "mods/terrablender-fabric.pw.toml"
+hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
