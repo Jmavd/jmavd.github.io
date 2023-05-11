@@ -1,0 +1,13 @@
+name = "CapMC"
+author = "JMavDean"
+version = "0.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "97d39ab3eae2a4c522c5b64302f3fd91c09ced53035ad5cc46f8c516982e95e8"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"
