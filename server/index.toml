@@ -830,6 +830,16 @@ hash = "e0f6cbba2f655e4d7906d95d5c9e00837a72fa6a0c52ddadcd35de33c160f017"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "40e40000ab1c16c9e21ffeb0a26cf97fa61caa317313a55a7b3a1d647485fcfe"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
@@ -916,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "1c28550134fa3fbaa8893ecf1eef52d525c337649ba190f07ea2eeeacd556156"
 metafile = true
 
 [[files]]
@@ -1011,6 +1026,11 @@ metafile = true
 [[files]]
 file = "mods/no-fade.pw.toml"
 hash = "a2f3df885984de9d90766c40c5ec4119769c9ffe8291364ff5f5403ba547fb32"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ec897e58f79a3982620ec06ce0648e74c2561652bfdc2cd03233c71d586f8319"
 metafile = true
 
 [[files]]
