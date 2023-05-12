@@ -1,12 +1,12 @@
 name = "CapMC"
 author = "JMavDean"
-version = "0.0.3"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "97d39ab3eae2a4c522c5b64302f3fd91c09ced53035ad5cc46f8c516982e95e8"
+hash = "fbfaba9d8a60e7bcac3571bb4b42c9d82eea6b250c73e538d10eced6dd19e628"
 
 [versions]
 fabric = "0.14.19"
